@@ -1,4 +1,5 @@
 # Bamazon
+# video demonstration: https://drive.google.com/file/d/1GIKxDnDWwLmbRxwkC8i6rFpHKudwgqu-/view
 SQL database demo app using local server.
 Uses MySQL package to interact with database and Inquirer package for command line prompts.
 Customer can see a table of all products and select a product to purchase.
